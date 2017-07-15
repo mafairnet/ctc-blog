@@ -13,5 +13,6 @@ Hoy anunciamos la creacion de este espacio en el cual vamos a empezar a distribu
 ###No solamente un sitio
 Tambien hay que mencionar que no solo sera la piedra angular de este espacio generar conocimiento, tambien difundiremos noticias e informacion de tecnologia, eventos de tecnologia, cursos y comunidades tecnologias en la region.
 Esperamos hacer crecer esta comunidad y que nuestra iniciativa sea de tu agrado.  
-Hasta la vista! :D  
+  
 Recuerda que te esperaremos siempre en [clubtecnologia.org](http://www.clubtecnologia.org/).
+Hasta la vista! :D  
